@@ -94,5 +94,6 @@ footer { overflow:hidden;margin: 0 auto; max-width:1280px;}
     header.site, section, footer { margin: 0 auto 80px auto;  }
     .logo {display: block; left:80px;}
     .previous p, .principles p { max-width:580px; }
+    footer { max-width: 1280px;}
 }
 
