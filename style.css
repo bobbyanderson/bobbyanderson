@@ -58,7 +58,7 @@ footer { overflow:hidden;margin: 0 auto; max-width:1280px;}
 }
 
 @media screen and (min-width: 64em) {   
-    .logo { display: block; left:40px; top:64px; }
+    .logo { display: block; left:40px; top:61px; }
     header.site, section { margin:0 0 80px 80px; width:80%; }
     .clients li { font-size:1.5em;}
     .capabilities ul { max-width:940px;}
